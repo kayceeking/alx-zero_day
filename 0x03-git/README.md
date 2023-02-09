@@ -1,1 +1,1 @@
-coding fury
+“Starting to code today, so cool”
